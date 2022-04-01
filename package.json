@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mrpgmr67/API-Proxy-Server#readme",
   "dependencies": {
-    "apicache": "^1.6.2",
+    "apicache": "^1.6.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
