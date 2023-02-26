@@ -1,5 +1,5 @@
 # API Proxy Server
-This project is an API proxy server that enables users to make requests to an external API through a local server. By routing requests through the proxy server, users can add additional functionality, such as caching, logging, and authentication, without modifying the client application.
+This project is an API proxy server based on a design by Travesy Media, that enables users to make requests to an external API through a local server. By routing requests through the proxy server, users can add additional functionality, such as caching, logging, and authentication, without modifying the client application.
 
 ## Features
 - Proxy requests to an external API
